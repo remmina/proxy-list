@@ -1,3 +1,12 @@
+<!--
+ * @Author: Remmina
+ * @LastEditors: EagleXiang
+ * @Email: 
+ * @Github: 
+ * @Date: 
+ * @LastEditTime: 2019-06-11 22:40:30
+ -->
+ 
 # Proxy List
 
 ## 目录结构
@@ -8,7 +17,7 @@
 
 ## 文件结构
 
-列表每行一个域名（或域名后缀，如.cn），对请求域名与列表进行后缀匹配即可
+列表每行一个域名（或域名后缀，如.cn），对请求域名与列表进行后缀匹配即可（[参考](./rule.txt)）
 
 ## 去重程序（`clear`）
 
